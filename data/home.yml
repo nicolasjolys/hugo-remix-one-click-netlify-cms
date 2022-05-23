@@ -3,9 +3,10 @@ en:
     CMS</span>
   slogan: Nulla magna eiusmod ea eu irure exercitation non incididunt.
   shortDescription: |
-    
-    coucouc c'est mon site→ Edit everything with no single line of code.
-    → It's free and open-source!
+    <style>
+    p {
+    color: red
+    }
   image: /media/wave.jpg
   copyright: "  © 2017-2022 - OhBonsaï &"
   register: Roneo.org
