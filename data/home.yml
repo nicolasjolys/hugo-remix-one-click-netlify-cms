@@ -4,10 +4,7 @@ en:
   slogan: '<p style="color: blue">The <code>style</code> attribute can override
     it, though.</p>'
   shortDescription: |
-    <style>
-    p {
-    color: red
-    }
+    <p style"color: red">coucou</p>
   image: /media/wave.jpg
   copyright: "  © 2017-2022 - OhBonsaï &"
   register: Roneo.org
