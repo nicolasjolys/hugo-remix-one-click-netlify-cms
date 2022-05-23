@@ -5,12 +5,12 @@ en:
     it, though.</p>'
   shortDescription: |
     <p style"color: red">coucou</p>
-  image: /media/wave.jpg
+  image: /media/screenshot-2022-05-15-at-23.12.08.png
   copyright: "  © 2017-2022 - OhBonsaï &"
   register: Roneo.org
   registerUrl: https://roneo.org/en
 fr:
-  image: /media/wave.jpg
+  image: ""
   title: Remix, un <span>theme pour Hugo</span> branché sur <span>Netlify CMS</span>
   slogan: Lorem magna eiusmod ea eu irure exercitation non incididunt.
   shortDescription: « Quis do pariatur quis nostrud elit in»
